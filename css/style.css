@@ -1,0 +1,8 @@
+body{
+    background-color: pink;
+}
+#diplay{
+    width: 500px;
+    height: 400px;
+    border: 3px solid  pink;
+}
